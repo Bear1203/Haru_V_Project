@@ -19,4 +19,5 @@
 5. 可與直播軟體擷取`Haru Vtuber.exe`畫面，搭配綠幕去背使用。
 6. 盡量保持頭在鏡頭視窗內，不要太遠或太近，一開始請調整鏡頭照到臉時為臉部正面。
 # :bowtie::laughing:謝謝閱讀:laughing::bowtie:
+### P.S. 只是單純使用沒要看程式，最後保留`Haru_exe`資料夾就可以了:relieved:。
 ### P.S. 也許之後有時間會再更新:relieved:。
